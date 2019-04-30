@@ -29,3 +29,11 @@ var title = "Harry Potter"
 title += " and the prissioner of Azkaban"
 print(title)
 print("Amount of characters: \(title.count)")
+
+// String comparision
+// Compare characters equality
+print("One" == "One")
+print("One" != "Two")
+
+// Also ignore accent marks and other unicode characters
+print("café" == "caf\u{65}\u{301}")
