@@ -4,3 +4,6 @@
 - Basics
 - Operators
 - Strings
+- Arrays
+- Sets
+- Dictionaries
