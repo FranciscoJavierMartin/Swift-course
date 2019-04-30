@@ -28,3 +28,4 @@ print(emptyString.isEmpty)
 var title = "Harry Potter"
 title += " and the prissioner of Azkaban"
 print(title)
+print("Amount of characters: \(title.count)")
