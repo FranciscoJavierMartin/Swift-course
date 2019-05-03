@@ -11,3 +11,5 @@
 - If/Else
 - Switch
 - Guards
+- Functions
+- Clousures
