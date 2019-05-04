@@ -15,3 +15,4 @@
 - Clousures
 - Enums
 - Classes
+- Properties
