@@ -13,3 +13,5 @@
 - Guards
 - Functions
 - Clousures
+- Enums
+- Classes
