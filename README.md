@@ -18,3 +18,4 @@
 - Properties
 - Methods
 - Subindex
+- Inheritance
