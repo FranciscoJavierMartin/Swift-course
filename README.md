@@ -16,3 +16,4 @@
 - Enums
 - Classes
 - Properties
+- Methods
