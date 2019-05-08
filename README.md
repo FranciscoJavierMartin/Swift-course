@@ -19,3 +19,4 @@
 - Methods
 - Subindex
 - Inheritance
+- Initialization (in progress)
