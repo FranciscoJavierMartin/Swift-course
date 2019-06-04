@@ -1,5 +1,5 @@
 # Swift course
-
+Now on MacOs
 ## Topics covered
 - Basics
 - Operators
