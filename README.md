@@ -21,3 +21,7 @@ Now on MacOs
 - Inheritance
 - Initialization (in progress)
 - Optionals
+- Error handling
+- Nested types
+- Extensions
+- Protocols
