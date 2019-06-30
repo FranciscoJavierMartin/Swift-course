@@ -25,3 +25,5 @@ Now on MacOs
 - Nested types
 - Extensions
 - Protocols
+- Generics
+- ARC
